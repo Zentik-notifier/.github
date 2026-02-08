@@ -99,6 +99,7 @@ Connect your stack and get notifications in Zentik:
 | Integration | What it does |
 |-------------|----------------|
 | [**NTFY**](https://notifier-docs.zentik.app/docs/integrations/ntfy) | Proxy NTFY topics to Zentik (subscribe + publish) |
+| [**Gotify**](https://notifier-docs.zentik.app/docs/integrations/gotify) | Link buckets to Gotify (application token per bucket, channel = app id or label) |
 | [**Home Assistant**](https://notifier-docs.zentik.app/docs/integrations/homeassistant) | HACS: `notify` service for automations |
 | [**Uptime Kuma**](https://notifier-docs.zentik.app/docs/integrations/uptime-kuma) | Webhook for monitoring (up/down, status) |
 | [**Scrypted**](https://notifier-docs.zentik.app/docs/integrations/scrypted) | Push from Scrypted (cameras, NVR) |
