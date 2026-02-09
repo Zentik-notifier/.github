@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Zentik-notifier/docs/refs/heads/main/static/logos/brand-logo.png" alt="Zentik" width="300" />
 </p>
 
-**One place for all your alerts.** Zentik is a notification hub: receive alerts from your systems and get them on your devices with **rich push** — self-host the backend or use the hosted app and focus on what matters.
+**One place for all your alerts.** Zentik is a notification hub: receive alerts from your systems and get them on your devices with **rich push** — [self-host](https://notifier-docs.zentik.app/docs/self-hosted/installation/) the backend or use the hosted app and focus on what matters.
 
 ---
 
